@@ -26,7 +26,7 @@
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     height: 100%;
-    overflow: auto !important;
+    overflow: auto ;
   }
 
   img, picture, svg {
